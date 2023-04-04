@@ -7,3 +7,6 @@
 * InfluxDB: influxdb.md
 * Riak: riak.md
 * ArangoDB: arangodb.md
+
+# Extra credit
+* BaseX: basex.md
